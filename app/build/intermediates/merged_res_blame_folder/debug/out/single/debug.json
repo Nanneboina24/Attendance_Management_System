@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bgblock.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\bgblock.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bglogo.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\bglogo.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_login.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\activity_student_login.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_student_list.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\view_student_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_layout.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bgout.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\bgout.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar_icon.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_faculty_list.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\view_faculty_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout___listview_main.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\__listview_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_attandance.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\add_attandance.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_addfaculty.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\addfaculty.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_roundedtextview.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\roundedtextview.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_attendance_list.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\view_attendance_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bgback1.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\bgback1.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_range.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\activity_range.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_addstudent.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\addstudent.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_any_attendance.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\activity_any_attendance.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_spinner_layout.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\color_spinner_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_roundedbutton.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\roundedbutton.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_dropdown_layout.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\spinner_dropdown_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewstudent.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\viewstudent.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_main.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\test_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_main.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\listview_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_attendance_list_per_student.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_student_attendance.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\layout\\add_student_attendance.xml"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bgplane.png.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\drawable-hdpi\\bgplane.png"
+    },
+    {
+        "merged": "E:\\Android_Attendance\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Android_Attendance\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

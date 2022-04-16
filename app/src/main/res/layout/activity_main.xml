@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bgblock"
+    tools:context=".MainActivity" >
+
+  <!--  <TextView
+        android:id="@+id/textView1"
+        android:layout_width="291dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="285dp"
+        android:text="WELCOME"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffff00"
+        android:textFontWeight="@android:integer/config_longAnimTime"
+        android:textSize="45dp"
+        android:textStyle="bold" />-->
+  <ImageView
+      android:id="@+id/imageView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/bglogo" />
+
+  <TextView
+      android:id="@+id/textViewFormName"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="50dp"
+      android:text="Attendance Management"
+      android:textColor="#ffffff"
+      android:textStyle="bold"
+      android:textSize="30dp" />
+  <TextView
+      android:id="@+id/textViewFormName2"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="85dp"
+      android:text="System"
+      android:textColor="#ffffff"
+      android:textStyle="bold"
+      android:textSize="30dp" />
+
+
+  <Button
+      android:id="@+id/buttonstart"
+      android:layout_width="162dp"
+      android:layout_height="wrap_content"
+      android:layout_alignParentRight="true"
+      android:layout_alignParentBottom="true"
+      android:layout_centerInParent="true"
+      android:layout_marginRight="110dp"
+      android:layout_marginBottom="35dp"
+      android:text="Welcome"
+      android:textColor="#000000"
+      android:textSize="25dp"
+      android:textStyle="bold" />
+
+</RelativeLayout>

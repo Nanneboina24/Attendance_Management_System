@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\65bf90c48b89b41813cde0a04f1b73cc\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\46795a1f24706ffc2c205dfb26c6d3f6\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\fbfb7c7ced2dd9c7976f805e2a51d90e\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\31701eb015b15d8e281e57b98ad9b8fb\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\1260008e6b28c2d2089d15c02c885941\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\1c9e2903f02dff600f06d93b0d1d0c3b\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\5ffa7b6fd9b9c4f4fae05cfac8b947c0\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\21c40582aa19c20b92b08fe79584521e\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a379726d39f0dc24f62f13da9754b22f\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\388fbd0dd723fcbc08c00c369be1c170\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\67b3ec6dc33e00778c2a5461e9ac08b6\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\aa8882fca5c0a2880eddbe0f90163556\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\9651d67507cfb958ec72395ba5625a82\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\de622a0736ef79d65f2760cc3a6f7232\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\d798b9982e20884298922b2b3b526ba3\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\12a7da1d020b5d39bae909480b3a5d2b\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\52cee454e676dfe4361911031fbc7914\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\4b0e883c691dfe3b51c757996ffc5b59\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\94a5dbd40f5e2ad6d8071e40ea8f6314\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\de92dc3a730267fc4a06812d10ec8388\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\b644760f8ab7d532f1c483eacd5a47ce\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\84a329d82ffc666455212e01b2932f47\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a63ed492c7ce6edbf098a6fb9d5bed14\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a17707910761fd10ce136764f87fecf1\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\522916342d38202e723564fa2ae9c270\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\126bbbba515a76748e0c79034fc43c1c\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:7:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\46795a1f24706ffc2c205dfb26c6d3f6\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\46795a1f24706ffc2c205dfb26c6d3f6\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\12a7da1d020b5d39bae909480b3a5d2b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\12a7da1d020b5d39bae909480b3a5d2b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:8:9-73
+activity#com.android.attendance.activity.RangeActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:13:9-91
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:13:19-79
+activity#com.android.attendance.activity.RangeDisplay
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:14:19-78
+activity#com.android.attendance.activity.StudentLoginActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:15:9-89
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:15:19-86
+activity#com.android.attendance.activity.AttendanceStudentActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:16:9-94
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:16:19-91
+activity#com.android.attendance.activity.TotalAttendanceStudentActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:17:9-99
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:17:19-96
+activity#com.android.attendance.activity.AnyAttendanceActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:18:9-90
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:18:19-87
+activity#com.android.attendance.activity.MainActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:20:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:28:9-30:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:29:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:31:9-33:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:32:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:34:9-36:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:35:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:37:9-39:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:38:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:40:9-42:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:41:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:43:9-45:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:44:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:46:9-48:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:47:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:49:9-51:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:50:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:52:9-54:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:53:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:55:9-57:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:56:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:58:9-60:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:59:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:61:9-63:48
+	android:label
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml:62:13-92
+uses-sdk
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\65bf90c48b89b41813cde0a04f1b73cc\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\65bf90c48b89b41813cde0a04f1b73cc\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\46795a1f24706ffc2c205dfb26c6d3f6\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\46795a1f24706ffc2c205dfb26c6d3f6\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\fbfb7c7ced2dd9c7976f805e2a51d90e\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\fbfb7c7ced2dd9c7976f805e2a51d90e\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\31701eb015b15d8e281e57b98ad9b8fb\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\31701eb015b15d8e281e57b98ad9b8fb\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\1260008e6b28c2d2089d15c02c885941\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\1260008e6b28c2d2089d15c02c885941\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\1c9e2903f02dff600f06d93b0d1d0c3b\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\1c9e2903f02dff600f06d93b0d1d0c3b\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\5ffa7b6fd9b9c4f4fae05cfac8b947c0\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\5ffa7b6fd9b9c4f4fae05cfac8b947c0\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\21c40582aa19c20b92b08fe79584521e\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\21c40582aa19c20b92b08fe79584521e\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a379726d39f0dc24f62f13da9754b22f\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a379726d39f0dc24f62f13da9754b22f\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\388fbd0dd723fcbc08c00c369be1c170\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\388fbd0dd723fcbc08c00c369be1c170\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\67b3ec6dc33e00778c2a5461e9ac08b6\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\67b3ec6dc33e00778c2a5461e9ac08b6\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\aa8882fca5c0a2880eddbe0f90163556\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\aa8882fca5c0a2880eddbe0f90163556\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\9651d67507cfb958ec72395ba5625a82\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\9651d67507cfb958ec72395ba5625a82\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\de622a0736ef79d65f2760cc3a6f7232\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\de622a0736ef79d65f2760cc3a6f7232\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\d798b9982e20884298922b2b3b526ba3\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\d798b9982e20884298922b2b3b526ba3\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\12a7da1d020b5d39bae909480b3a5d2b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\12a7da1d020b5d39bae909480b3a5d2b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\52cee454e676dfe4361911031fbc7914\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\52cee454e676dfe4361911031fbc7914\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\4b0e883c691dfe3b51c757996ffc5b59\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\4b0e883c691dfe3b51c757996ffc5b59\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\94a5dbd40f5e2ad6d8071e40ea8f6314\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\94a5dbd40f5e2ad6d8071e40ea8f6314\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\de92dc3a730267fc4a06812d10ec8388\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\de92dc3a730267fc4a06812d10ec8388\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\b644760f8ab7d532f1c483eacd5a47ce\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\b644760f8ab7d532f1c483eacd5a47ce\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\84a329d82ffc666455212e01b2932f47\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\84a329d82ffc666455212e01b2932f47\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a63ed492c7ce6edbf098a6fb9d5bed14\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a63ed492c7ce6edbf098a6fb9d5bed14\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a17707910761fd10ce136764f87fecf1\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\a17707910761fd10ce136764f87fecf1\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\522916342d38202e723564fa2ae9c270\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\522916342d38202e723564fa2ae9c270\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\126bbbba515a76748e0c79034fc43c1c\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AMMA\.gradle\caches\transforms-2\files-2.1\126bbbba515a76748e0c79034fc43c1c\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Attendance\app\src\main\AndroidManifest.xml
