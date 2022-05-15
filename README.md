@@ -5,8 +5,8 @@ Android Application
 Attendance can be maintained through ANDROID APP.
 
 # About Application
-SOFTWARE	:	ANDROID STUDIO
-BACK END	:	SQLITE
+SOFTWARE	:	ANDROID STUDIO<br />
+BACK END	:	SQLITE<br/>
 
 # Develop by..
 Nanneboina Sumanth
