@@ -8,5 +8,10 @@ Attendance can be maintained through ANDROID APP.
 SOFTWARE	:	ANDROID STUDIO<br />
 BACK END	:	SQLITE<br/>
 
+# Modules
+Admin Module <br />
+Faculty Module<br />
+Student Module<br />
+
 # Develop by..
 Nanneboina Sumanth
