@@ -2,16 +2,16 @@
 Android Application
 
 # Description 
-Attendance can be maintained through ANDROID APP.
+Attendance operations can be maintained through this ANDROID APP.
 
 # About Application
 SOFTWARE	:	ANDROID STUDIO<br />
 BACK END	:	SQLITE<br/>
 
 # Modules
-Admin Module <br />
-Faculty Module<br />
-Student Module<br />
+1) Admin
+2) Faculty 
+3) Student
 
 # Develop by..
 Nanneboina Sumanth
